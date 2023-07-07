@@ -1,4 +1,4 @@
-# AdvancedPython_course_Maktabkhoone
+# AdvancedPython_course_Maktabkhoone_institute
  I'm gonna use some methods in ML,Webscraping and Mysql to predict Fairprice of cars   
  **Step1:** 
  first of all we gotta install all modules we need and send them into requirements.txt   
