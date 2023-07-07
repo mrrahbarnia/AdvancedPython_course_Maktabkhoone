@@ -7,4 +7,5 @@
  in this project i only need four parameters(model,year,miles,price).
  send get request for the range that i want and scrap all data with bs4 and put them into my database with mysql.connector   
  **step3:**
+ at the end we have to fit all data in x,y parameters to predict the fair price with DecisionTreeClassifier
  
